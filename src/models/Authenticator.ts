@@ -1,6 +1,6 @@
-import { ARD_HOST } from "~/utils/constants";
 import { cookiesObjectToString, mapSetCookiesToObject } from "~/utils/cookies";
-import { Client } from "./Client";
+import { ARD_HOST } from "~/utils/constants";
+import { Client } from "~/models/Client";
 
 export class Authenticator {
   /**
