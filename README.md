@@ -1,8 +1,8 @@
-# AwRD - An awmazing API wrapper for ARD
+# AwRD - An awmazing API wrapper for ARD GEC
 
-A simple wrapper around [ARD](https://www.ard.fr/) internal API.
+A simple wrapper around [ARD GEC](https://www.ard.fr/produits-services/gamme-gec/) internal API.
 
-> This project is not affiliated with ARD in any way.
+> This project is not affiliated with [ARD](https://www.ard.fr) in any way.
 
 ## Installation
 
