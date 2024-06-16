@@ -1,6 +1,6 @@
 # AwRD - An awmazing API wrapper for ARD
 
-A simple wrapper around [ARD](https://www.aplim.fr/EcoleDirecte) internal API.
+A simple wrapper around [ARD](https://www.ard.fr/) internal API.
 
 > This project is not affiliated with ARD in any way.
 
