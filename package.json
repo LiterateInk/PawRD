@@ -1,8 +1,8 @@
 {
-  "name": "awrd",
+  "name": "pawrd",
   "version": "0.0.0",
   "description": "A simple wrapper around ARD internal API.",
-  "repository": "github:LiterateInk/AwRD",
+  "repository": "github:LiterateInk/PawRD",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -30,9 +30,9 @@
     "France"
   ],
   "author": "Mikkel RINGAUD <mikkel@milescode.dev> (https://github.com/Vexcited)",
-  "homepage": "https://literate.ink/awrd",
+  "homepage": "https://literate.ink/pawrd",
   "bugs": {
-    "url": "https://github.com/LiterateInk/AwRD/issues"
+    "url": "https://github.com/LiterateInk/PawRD/issues"
   },
   "license": "GPL-3.0",
   "engines": {
