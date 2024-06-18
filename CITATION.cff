@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: PawRD
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mikkel
+    family-names: RINGAUD
+    email: mikkel@milescode.dev
+repository-code: 'https://github.com/LiterateInk/PawRD'
+url: 'https://literate.ink/pawrd'
+abstract: >-
+  A simple wrapper around ARD GEC internal API.
+keywords:
+  - ARD
+  - wrapper
+  - api
+license: GPL-3.0
